@@ -1,2 +1,4 @@
 # Codewars
 Codewars Katas
+
+Solver
