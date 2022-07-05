@@ -1,4 +1,5 @@
 # Codewars
 Codewars Katas
 
-Solver
+git commit -a 
+git push origin
