@@ -14,10 +14,3 @@ def number_of_pairs(gloves):
     
     
     
-
-
-print(number_of_pairs(["red","green","blue","blue","red","green","red","red","red"]))
-
-
-
-print(" ")
