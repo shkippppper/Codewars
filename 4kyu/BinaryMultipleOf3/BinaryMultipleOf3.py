@@ -1,0 +1,1 @@
+PATTERN = re.compile(r'')
