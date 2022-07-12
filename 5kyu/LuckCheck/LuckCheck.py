@@ -11,3 +11,5 @@ def luck_check(string):
     else:
         raise TypeError("nope nope")
     
+
+
