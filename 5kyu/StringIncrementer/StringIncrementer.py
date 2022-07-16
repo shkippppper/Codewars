@@ -16,15 +16,6 @@ def increment_string(strng):
     num_to_add = 1
     print(number)
     return strng + zeros_to_add + str(num_to_add)
-    
-
-
-    
-
-
 
 print(increment_string("f14oo00")) 
 #increment_string("foobar099")
-
-
-
