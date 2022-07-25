@@ -42,4 +42,5 @@ solve([1,23,2])
 
 def solve(xs):
     x, y, z = sorted(xs)
-    return min(x + y, (x + y + z) // 2)
+    return min(x + y, (x + y + z) // 2).
+
