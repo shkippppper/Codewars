@@ -17,11 +17,3 @@ def persistence(n):
         turns +=1
     return turns
 
-
-
-
-
-
-
-
-
